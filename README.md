@@ -151,4 +151,4 @@ This project is licensed under the MIT License.
 
 ⭐ If you found this project useful, please consider giving it a star on GitHub.
 
-<img width="1448" height="1086" alt="Internet_checker" src="https://github.com/user-attachments/assets/3aa58b11-700b-4264-944a-597918203ae6" />
+<img width="1536" height="1024" alt="Expense_Tracker" src="https://github.com/user-attachments/assets/6736c4ff-bbf1-48c7-9972-8171b8493fb8" />
