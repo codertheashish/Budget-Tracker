@@ -150,3 +150,5 @@ This project is licensed under the MIT License.
 ---
 
 ⭐ If you found this project useful, please consider giving it a star on GitHub.
+
+<img width="1448" height="1086" alt="Internet_checker" src="https://github.com/user-attachments/assets/3aa58b11-700b-4264-944a-597918203ae6" />
