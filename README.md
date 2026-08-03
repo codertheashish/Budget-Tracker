@@ -144,11 +144,14 @@ This project is licensed under the MIT License.
 
 ### Ashish Kumar Prajapati
 
-* GitHub: https://github.com/codertheashish
-* LinkedIn: https://www.linkedin.com/in/ashish-kumar-prajapati-3b6858301
-
+- GitHub :
+[codertheashish](https://github.com/codertheashish)
+- Linkedin :
+[codertheashish](https://www.linkedin.com/in/codertheashish/)
+- Instagram :
+[codertheashish](https://www.instagram.com/codertheashish/)
 ---
 
-⭐ If you found this project useful, please consider giving it a star on GitHub.
+⭐ If you like this portfolio, don't forget to give it a star on GitHub.
 
-<img width="1536" height="1024" alt="Expense_Tracker" src="https://github.com/user-attachments/assets/6736c4ff-bbf1-48c7-9972-8171b8493fb8" />
+<img width="601" height="437" alt="Expense_Tracker" src="https://github.com/user-attachments/assets/6736c4ff-bbf1-48c7-9972-8171b8493fb8" />
