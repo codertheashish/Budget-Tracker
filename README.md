@@ -89,7 +89,7 @@ https://codertheashish.github.io/Budget-Tracker/
 ### Clone Repository
 
 ```bash
-https://github.com/codertheashish/Budget-Tracker
+https://github.com/codertheashish/Budget-Tracker.git
 ```
 
 ### Open Project
